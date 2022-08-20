@@ -32,4 +32,10 @@ height="85px"/>
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=muazzamshahzad&hide=issues&count_private=true&theme=vue&showicons=true)]()
 
 <br>
+<p align="center">
+<a href="https://github.com/muazzamshahzad/">
+<img width="170px" height="24" src="https://profile-counter.glitch.me/muazzamshahzad/count.svg" alt="muazzamshahzad" />
+</a> </p>
+<br>
+
 <!-- ### 🌊 See my portfolio  -->
