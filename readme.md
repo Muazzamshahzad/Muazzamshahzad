@@ -16,7 +16,7 @@
 
 📬 write me to Muazzambhoohn@gmail.com
 
-📲 connect with me on Linked <a href="https://www.linkedin.com/in/muazzamshahzad/" target= "_blank"><img src="https://user-images.githubusercontent.com/79268979/149311247-d43973ad-a2c9-4312-867c-16efbf4c347c.png" width="18px" height="18px"></a>
+📲 connect with me on Linked <a href="https://www.linkedin.com/in/muazzamshahzad/" target="_blank"><img src="https://user-images.githubusercontent.com/79268979/149311247-d43973ad-a2c9-4312-867c-16efbf4c347c.png" width="18px" height="18px"></a>
 
 <br>
 
