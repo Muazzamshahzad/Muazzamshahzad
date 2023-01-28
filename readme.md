@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muazzam Shahzad!
 
-## Front-end developer on my way to be a Full-stack developer.
+## Junior Full-stack developer.
 
  <br>
  
